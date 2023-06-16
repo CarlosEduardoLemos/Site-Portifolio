@@ -3,6 +3,7 @@
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://raw.githubusercontent.com/CarlosEduardoLemos/Site-Portifolio/main/assets/Dark-Mode.png#vitrinedev)
 ![](https://raw.githubusercontent.com/CarlosEduardoLemos/Site-Portifolio/main/assets/Light-Mode.png#vitrinedev)
+![](https://raw.githubusercontent.com/CarlosEduardoLemos/Site-Portifolio/main/assets/Mobile-Dark-Mode.jpg#vitrinedev) ![](https://raw.githubusercontent.com/CarlosEduardoLemos/Site-Portifolio/main/assets/Mobile-Light-Mode.jpg#vitrinedev)
 
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
@@ -55,8 +56,22 @@ Em resumo, minha URL é uma forma moderna e eficiente de apresentar-me e destaca
 
 ## 🔖 Layout
 
+O layout que me inspirei no link fornecido é chamado de "DevLinks - Projeto Discover". É um design visualmente atraente e intuitivo, projetado para fornecer aos usuários uma experiência de descoberta agradável.
+
+Ao acessar o projeto Discover, você será imediatamente recebido por uma página inicial elegante. O cabeçalho é simples e limpo, com um logotipo distintivo no canto superior esquerdo, seguido de uma barra de pesquisa que permite aos usuários pesquisar por conteúdo específico.
+
+Logo abaixo do cabeçalho, há uma seção destacada que exibe os destaques mais recentes ou populares. Isso permite aos usuários explorar rapidamente o conteúdo interessante do site. Os destaques são apresentados em uma grade bem organizada, com imagens cativantes e títulos descritivos.
+
+À medida que você rola para baixo na página, encontrará seções temáticas que oferecem uma visão geral de diferentes categorias de conteúdo. Cada seção é acompanhada por uma imagem relacionada e um título sugestivo. Isso ajuda os usuários a navegar facilmente pelas áreas de seu interesse.
+
+Ao clicar em um dos destaques ou em uma seção temática, você será redirecionado para uma página interna dedicada ao conteúdo selecionado. Essas páginas mantêm a mesma estética agradável e consistente do layout principal.
+
+O layout geral é limpo e minimalista, o que facilita a leitura e a navegação. As cores usadas são suaves e harmoniosas, criando uma atmosfera agradável para os usuários. A tipografia é legível e bem espaçada, tornando a leitura do conteúdo uma experiência agradável.
+
+Em resumo, o layout do projeto Discover é uma composição visualmente atraente e intuitiva. Ele proporciona uma experiência de descoberta agradável, permitindo que os usuários encontrem facilmente o conteúdo desejado.
+
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT.
+Este projeto está licenciado sob a [MIT License](https://github.com/seu-usuario/seu-repositorio/blob/main/LICENSE).
