@@ -33,7 +33,17 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+Apresento-lhe a minha URL personalizada, o meu cartão de visitas online. Com esta simples e breve página, sou capaz de transmitir todas as informações essenciais sobre mim e a minha atividade de forma eficiente e profissional.
+
+Ao acessar a minha URL, você será recebido por um design minimalista e elegante, que reflete a minha identidade profissional. Na página inicial, você encontrará meu nome, meu cargo e uma breve descrição sobre mim e o que faço.
+
+Além disso, a minha URL possui seções específicas que fornecem detalhes adicionais sobre os meus serviços, experiência e habilidades. Uma seção é dedicada ao meu portfólio, onde destaco os meus melhores trabalhos e projetos anteriores. Essa seção permite que você explore visualmente a qualidade e a diversidade do meu trabalho.
+
+A minha URL também inclui uma área para contato, onde você encontrará informações para se comunicar comigo de forma rápida e fácil. Seja para discutir novas oportunidades, solicitar orçamentos ou simplesmente trocar ideias, estou disponível para atender às suas necessidades.
+
+Utilizar uma URL como cartão de visitas online oferece várias vantagens. Ela é facilmente acessível a partir de qualquer dispositivo com acesso à internet, permitindo que você compartilhe facilmente o seu cartão com pessoas em todo o mundo. Além disso, a URL pode ser atualizada de forma rápida e simples, garantindo que as informações apresentadas estejam sempre atualizadas.
+
+Em resumo, minha URL é uma forma moderna e eficiente de apresentar-me e destacar a minha expertise. Convido você a visitá-la e conhecer mais sobre mim e o meu trabalho. Sinta-se à vontade para explorar, entrar em contato e descobrir como posso agregar valor ao seu projeto ou negócio.
 
 - [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
 
