@@ -1,5 +1,9 @@
 <h1 align="center"> DevLinks </h1>
 
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://raw.githubusercontent.com/CarlosEduardoLemos/Site-Portifolio/main/assets/Dark-Mode.png#vitrinedev)
+![](https://raw.githubusercontent.com/CarlosEduardoLemos/Site-Portifolio/main/assets/Light-Mode.png#vitrinedev)
+
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
 <a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
