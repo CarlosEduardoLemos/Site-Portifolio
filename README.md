@@ -2,7 +2,7 @@
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://raw.githubusercontent.com/CarlosEduardoLemos/Site-Portifolio/main/assets/Dark-Mode.png#vitrinedev)
-<p>
+<p align="center">
   <img alt="License" src="https://raw.githubusercontent.com/CarlosEduardoLemos/Site-Portifolio/main/assets/Mobile-Light-Mode.jpg">
   <img alt="License" src="https://raw.githubusercontent.com/CarlosEduardoLemos/Site-Portifolio/main/assets/Mobile-Dark-Mode.jpg">
 </p>
