@@ -54,7 +54,7 @@ Utilizar uma URL como cartão de visitas online oferece várias vantagens. Ela �
 
 Em resumo, minha URL é uma forma moderna e eficiente de apresentar-me e destacar a minha expertise. Convido você a visitá-la e conhecer mais sobre mim e o meu trabalho. Sinta-se à vontade para explorar, entrar em contato e descobrir como posso agregar valor ao seu projeto ou negócio.
 
-- [Acesse o projeto finalizado, online](https://carloseduardolemos.github.io/DevLink/)
+- [Acesse o projeto finalizado, online](https://carloseduardolemos.github.io/Site-Portifolio/)
 
 - [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 
